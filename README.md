@@ -1,4 +1,4 @@
-# AI Assistant - Embeddable Chat Widget
+# AI Assistant - Embeddable Chat Widget using Cloudflare LLM Chat App [https://github.com/cloudflare/templates/tree/v5.2.0/llm-chat-app-template]
 
 A lightweight, customizable chat widget that can be easily integrated into any website. This widget provides a floating chat bubble that expands into a fully functional AI assistant chat window powered by Cloudflare Workers AI.
 
